@@ -1,11 +1,11 @@
 var http=require('http');   // module
 //object----- model
 var product ={
-    title:"Rose",
+    title:"Rosy",
     description:"Valentine Flower",
-    unitprice:25,
+    unitprice:55,
     likes:500,
-    quantity:5000
+    quantity:10000
 };
 
 var count=45;
